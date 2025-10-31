@@ -68,7 +68,7 @@ python server.py
 ## 📊 Example Log Output
 
 ```
-[2025-11-01 01:21:41] IP: 192.168.0.25 | USER: admin | PASS: admin@123
+[2025-11-01 01:21:41] IP: 127.0.0.1 | USER: admin | PASS: admin@123
 ```
 
 ---
